@@ -1,0 +1,4 @@
+.content{
+    min-height: var(--min-height-page);
+    padding-top: var(--nav-height);
+}
